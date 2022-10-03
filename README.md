@@ -1,1 +1,1 @@
-# conflict-resolution
+#  CSS Snippet Cheat Sheet
